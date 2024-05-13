@@ -1,0 +1,16 @@
+Practicing Git in the below repo
+https://github.com/Sukankrishnan/GitPractice
+
+Commands:
+
+git init
+git clone https://github.com/Sukankrishnan/GitPractice.git
+git checkout -b sukanya_branch
+git status
+git diff
+git add learningGit.txt  (Status changed to 'A - Index Added') --> M - Modified
+git commit -m "adding files"
+git push origin dev
+
+To unstage the added file in Index
+git rm --cached -f learningGit.txt   (-f is used when the file is modified after added to index and forcing to untrack).
