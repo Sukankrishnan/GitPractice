@@ -14,3 +14,6 @@ git push origin dev
 
 To unstage the added file in Index
 git rm --cached -f learningGit.txt   (-f is used when the file is modified after added to index and forcing to untrack).
+
+How to add collaborators to your git repo?
+Go to Settings -> Collaborators -> Add people to contribute
