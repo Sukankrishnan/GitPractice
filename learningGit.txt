@@ -35,3 +35,7 @@ To choose either option permanently, see push.default in 'git help config'.
 To avoid automatically configuring an upstream branch when its name
 won't match the local branch, see option 'simple' of branch.autoSetupMerge
 in 'git help config'.
+
+git getch
+---------
+It helps to know the changes made in the remote repository. But it does not make any changes to the working directory.
