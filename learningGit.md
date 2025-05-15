@@ -19,7 +19,7 @@ Commands:
 
 8. git push origin
 
-When you get error 
+If you get the below error 
 
         fatal: 'origin' does not appear to be a git repository
         fatal: Could not read from remote repository.
