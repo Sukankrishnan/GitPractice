@@ -3,21 +3,21 @@ https://github.com/Sukankrishnan/GitPractice
 
 Commands:
 
-git init
+1. git init
 
-git clone https://github.com/Sukankrishnan/GitPractice.git
+2. git clone https://github.com/Sukankrishnan/GitPractice.git
 
-git checkout -b sukanya_branch
+3. git checkout -b sukanya_branch
 
-git status
+4. git status
 
-git diff
+5. git diff
 
-git add learningGit.txt  (Status changed to 'A - Index Added') --> M - Modified
+6. git add learningGit.txt  (Status changed to 'A - Index Added') --> M - Modified
 
-git commit -m "adding files"
+7. git commit -m "adding files"
 
-git push origin
+8. git push origin
 
 When you get error 
 
