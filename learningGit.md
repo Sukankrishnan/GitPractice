@@ -4,13 +4,20 @@ https://github.com/Sukankrishnan/GitPractice
 Commands:
 
 git init
+
 git clone https://github.com/Sukankrishnan/GitPractice.git
+
 git checkout -b sukanya_branch
+
 git status
+
 git diff
+
 git add learningGit.txt  (Status changed to 'A - Index Added') --> M - Modified
+
 git commit -m "adding files"
-git push origin dev
+
+git push origin
 
 When you get error 
 
