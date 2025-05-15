@@ -31,13 +31,16 @@ Use:
 git remote add origin https://github.com/Sukankrishnan/PlaywrightWithTypeScript.git
 
 To unstage the added file in Index
+
 git rm --cached -f learningGit.txt   (-f is used when the file is modified after added to index and forcing to untrack).
 
 How to add collaborators to your git repo?
+
 Go to Settings -> Collaborators -> Add people to contribute
 
 
 git push
+
 fatal: The upstream branch of your current branch does not match
 the name of your current branch.  To push to the upstream branch
 on the remote, use
