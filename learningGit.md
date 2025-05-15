@@ -12,6 +12,17 @@ git add learningGit.txt  (Status changed to 'A - Index Added') --> M - Modified
 git commit -m "adding files"
 git push origin dev
 
+When you get error 
+
+        fatal: 'origin' does not appear to be a git repository
+        fatal: Could not read from remote repository.
+        
+        Please make sure you have the correct access rights
+        and the repository exists.
+
+Use:
+git remote add origin https://github.com/Sukankrishnan/PlaywrightWithTypeScript.git
+
 To unstage the added file in Index
 git rm --cached -f learningGit.txt   (-f is used when the file is modified after added to index and forcing to untrack).
 
