@@ -16,11 +16,11 @@ The project structure is
 
 When you want to push only test.js and igore other files and folders, add the relevant file name/path in the .gitignore file.
 
-  *.log
-  
-  Student/
-  
-  Input/*.xlsx
+          *.log
+          
+          Student/
+          
+          Input/*.xlsx
 
 
   Resource: [How to use gitignore file](https://www.youtube.com/watch?v=1Qk8jrBrp9o)
